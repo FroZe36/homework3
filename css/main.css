@@ -1,0 +1,38 @@
+.special-offer {
+   max-width: 1140px;
+   max-height:333.08px;
+   
+}
+.special-offer__group {
+   background: linear-gradient(257.26deg, #008BF0 -13.2%, #D943C9 130.95%);
+   border: 1px solid rgba(0, 0, 0, 0.1);
+   display:inline-block;
+   width: 555px;
+   height: 296px;
+}
+#left {
+   float:right;
+   position:absolute;
+   margin: -22px 30.27px 15.08px 234px;
+}
+#right {
+   float:right;
+   position:absolute;
+   margin: 36px 25.85px 52.26px 260px;
+   
+}
+.about__group {
+   margin-top: 75px;
+   margin-left: 35px;
+}
+/*.special-offer__group.left {
+}
+/*.group__sale {
+   margin: 75px 279px 194px 35px;
+}
+.group__item {
+   margin: 107px 271px 108px 35px;
+}
+.group__button {
+   margin:195px 444px 74px 35px;
+}*/

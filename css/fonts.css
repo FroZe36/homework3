@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@600&display=swap');
+.group__sale {
+   font-family: Hind Siliguri;
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 27px;
+   text-transform: uppercase;
+   color: #F4F9FC;
+   opacity: 0.6;
+}
+.group__item {
+   font-family: Hind Siliguri;
+   font-weight: 600;
+   font-size: 31px;
+   line-height: 40px;
+   color: #F4F9FC;
+
+}
+.group__button {
+   font-family: Hind Siliguri;
+   font-weight: 500;
+   font-size: 14px;
+   line-height: 27px;
+   text-transform: uppercase;
+   color: #F4F9FC;
+
+}

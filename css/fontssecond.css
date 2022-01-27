@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@600&display=swap');
+.main-group__about__header__title {
+   font-family: Hind Siliguri;
+   font-size: 14px;
+   line-height: 23px;
+   letter-spacing: 0.145em;
+   text-transform: uppercase;
+   color: #C72535;
+   opacity: 0.6;
+}
+.main-group__about__header__subtitle {
+   font-family: Hind Siliguri;
+   font-size: 44px;
+   line-height: 71px;
+   color: #030D15;
+}
+.main-group__about__main__text {
+   font-family: Hind Siliguri;
+   font-size: 16px;
+   line-height: 24px;
+   color: #030D15;
+   opacity: 0.6;
+}
+.main-group__about__main__list {
+   font-family: Hind Siliguri;
+   font-size: 14px;
+   line-height: 27px;
+   color: #030D15;
+}

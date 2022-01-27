@@ -1,0 +1,27 @@
+.main-group__about{
+   position: relative;
+   top: 100px;
+   left: 50px;
+}
+
+.main-group_img {
+   float:left;
+}
+.list__item {
+   padding-top: 25px;
+   list-style-type: none;
+}
+.list__item::before {
+   content: url('../img/img.svg');
+   padding: 0px 10px 0px 0px;
+}
+.main-group__about__main{
+   margin-top:115px;
+}
+.main-group__about__main__list {
+   margin-top:40px;
+}
+.main-group__about__main__text {
+   text-align: left;
+   align-items: center;
+}

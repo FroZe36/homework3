@@ -1,0 +1,121 @@
+body {
+   background: linear-gradient(180deg, rgba(236, 240, 253, 0) 0%, rgba(236, 240, 253, 0.53) 14.32%, #ECF0FD 45.83%, rgba(236, 240, 253, 0.43) 84.33%, rgba(236, 240, 253, 0) 100%);
+   /*width: 1920px;
+   /*height: 1209px;*/
+}
+.header {
+   width: 520px;
+   /*height: 140px;*/
+   margin: 0 auto;
+   padding: 20px;
+   margin-top: 75px;
+}
+.main {
+   width: 730px;
+   /*height: 439px;*/
+   margin: 0 auto;
+   position: relative;
+   text-align: center;
+   margin-top: 75px;
+}
+     
+
+.main__block-text {
+   position: relative;
+   bottom: 80px;
+}
+.main__block-icon {
+   margin-top: 35px;
+
+}
+
+.first {
+   width: 730px;
+   height: 391px;
+   background: #FFFFFF;
+   box-shadow: 0px 18px 52.8537px rgba(215, 228, 249, 0.5);
+   border-radius: 20px;
+   position: absolute;
+   z-index: 3;
+
+}
+.second {
+   width: 678px;
+   height: 363px;
+   background: #FFFFFF;
+   box-shadow: 0px 18px 52.8537px rgba(215, 228, 249, 0.5);
+   border-radius: 20px;
+   position: absolute;
+   z-index: 2;
+   top: 50px;
+   left: 25px;
+}
+.third {
+   width: 618px;
+   height: 331px;
+   background: #FFFFFF;
+   box-shadow: 0px 18px 52.8537px rgba(215, 228, 249, 0.5);
+   border-radius: 20px;
+   position: absolute;
+   z-index: 1;
+   top:100px;
+   left: 55px;
+   
+}
+.main::before {
+   content:url(../img/group5.svg);
+   position: absolute;
+   top: 300px;
+   left:-123px;
+}
+.main::after {
+   content: url(../img/group6.svg);
+   position: absolute;
+   right: -133px;
+   bottom:-253px;
+}
+
+.left-top {
+   position: absolute;
+   left:7%;
+   top:30%;
+}
+.left-middle {
+   position: absolute;
+   left:0%;
+   top:60%;
+}
+.left-bottom{
+   position: absolute;
+   left:3%;
+   top:90%;
+}
+.right-top {
+   position: absolute;
+   right:0%;
+   top:30%;
+
+}
+.right-middle {
+   position: absolute;
+   right:0%;
+   top:66%;
+
+}
+.right-bottom {
+   position: absolute;
+   right:5%;
+   top:90%;
+
+}
+.nav-button__left {
+   position: absolute;
+   bottom: 5%;
+   right: 35%;
+
+}
+.nav-button__right {
+   position: absolute;
+   bottom:4.5%;
+   right:29%;
+}

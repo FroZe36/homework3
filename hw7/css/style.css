@@ -1,0 +1,30 @@
+* {
+   padding:0px;
+   margin:0px;
+}
+.header {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   background: #000000;
+}
+.header__group {
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   text-align: center;
+}
+.header__group_nav {
+   margin: 10px 30px;
+}
+.main { 
+   background:url(../img/background.svg) center center;
+}
+.section {
+   display: flex;
+   flex-direction: row;
+}
+.section-right__container {
+   display:flex;
+   flex-direction: column;
+}

@@ -65,14 +65,14 @@ body {
 .main::before {
    content:url(../img/group5.svg);
    position: absolute;
-   top: 300px;
+   bottom:-515px;
    left:-123px;
 }
 .main::after {
    content: url(../img/group6.svg);
    position: absolute;
    right: -133px;
-   bottom:-253px;
+   top:45px;
 }
 
 .left-top {

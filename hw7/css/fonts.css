@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+.section-left__text {
+   font-family: Raleway;
+   font-weight: 500;
+   font-size: 48px;
+   line-height: 56px;
+   text-transform: uppercase;
+   color: #FFFFFF;
+}
+.section-left__subtext {
+   font-family: Raleway;
+   font-size: 18px;
+   line-height: 21px;
+   color: #FFFFFF;
+}
+.nav {
+   font-family: Open Sans;
+   font-weight: 600;
+   font-size: 14px;
+   line-height: 19px;
+   text-transform: capitalize;
+   color: #FFFFFF;
+   text-decoration: none;
+}
+.form-title {
+   font-family: Open Sans;
+   font-weight: bold;
+   font-size: 24px;
+   line-height: 33px;
+   text-transform: uppercase;
+   color: #333333;
+}
+.form-row {
+   font-family: Open Sans;
+   font-size: 14px;
+   line-height: 19px;
+   color: #BDBDBD;
+   opacity: 0.6;
+}
+hr {
+   color: #BDBDBD;
+   opacity: 0.6;
+}
+#free {
+   color: #EC7979;
+}
+.social-container__block_text {
+   font-family: Open Sans;
+   font-weight: bold;
+   font-size: 24px;
+   line-height: 33px;
+   text-transform: capitalize;
+   color: #333333;
+}
+.social-container__block_subtext {
+   font-family: Raleway;
+   font-size: 18px;
+   line-height: 21px;
+   display: flex;
+   align-items: center;
+   color: #86878B;
+}
+.banner-container__title {
+   font-family: Raleway;
+   font-size: 36px;
+   line-height: 42px;
+   text-transform: uppercase;
+   color: #FFFFFF;
+}
+.banner-container__subtitle {
+   font-family: Raleway;
+   font-size: 18px;
+   line-height: 21px;
+   color: #FFFFFF; 
+}
+.contact-container__title {
+   font-family: Raleway;
+   font-size: 36px;
+   line-height: 42px;
+   text-transform: uppercase;
+   color: #000000;
+}
+.contact-container__subtitle {
+   font-family: Raleway;
+   font-size: 18px;
+   line-height: 21px;
+   color: #86878B;
+}
+.form-left_row, .textarea-right {
+   font-family: Open Sans;
+   font-size: 14px;
+   line-height: 19px;
+   color: #BDBDBD;
+}
+.footer__copyright {
+   font-family: Raleway;
+   font-size: 18px;
+   line-height: 21px;
+   color: rgba(255, 255, 255, 0.5);
+}

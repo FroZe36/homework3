@@ -1,0 +1,62 @@
+.header {
+   display:flex;
+   text-align: center;
+   flex-direction: column;
+   margin-top: 50px;
+}
+.header__title::after {
+   content: '';
+   border: 1px solid #EC7979;
+   display: block;
+   width: 170px;
+   height: 0px;
+   margin:0 auto;
+   margin-top: 75px;  
+}
+
+.header__subtitle {
+   margin-top: 50px;
+}
+.main {
+   display:flex;
+   flex-direction: row;
+   margin-top: 70px;
+   
+}
+.main__container {
+   display: flex;
+   flex-direction: column;
+}
+/*.desc-userpic {
+   float: left;
+}*/
+.main__container-text {
+   background: #E2E2E2;
+   border-radius: 10px;
+   padding: 50px 20px;
+   text-align: center;
+   margin: 20px 15px;
+   position: relative;
+}
+.main__container-text::after {
+   content: "";
+   background: url(../img/Polygon1.svg);
+   width: 30px;
+   height: 20px;
+   bottom: -18px;
+   left: 62px;
+   z-index: 9;
+   position: absolute;
+}
+
+.main__container-desc {
+   margin:0px 15px;
+   display: flex;
+   flex-direction: row;
+}
+.desc-container {
+   margin: 25px;
+}
+.desc-row {
+   margin-top: 15px;
+}
